@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\oyun-main\oyun-ornk\obj\Debug\oyun-ornk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\oyun-main\oyun-ornk\obj\Debug\oyun-ornk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\oyun-main\oyun-ornk\obj\Debug\oyun_ornk.Form1.resources
+C:\Users\User\Desktop\oyun-main\oyun-ornk\obj\Debug\oyun_ornk.Properties.Resources.resources
+C:\Users\User\Desktop\oyun-main\oyun-ornk\obj\Debug\oyun-ornk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\oyun-main\oyun-ornk\obj\Debug\oyun-ornk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\oyun-main\oyun-ornk\bin\Debug\oyun-ornk.exe.config
+C:\Users\User\Desktop\oyun-main\oyun-ornk\bin\Debug\oyun-ornk.exe
+C:\Users\User\Desktop\oyun-main\oyun-ornk\bin\Debug\oyun-ornk.pdb
+C:\Users\User\Desktop\oyun-main\oyun-ornk\obj\Debug\oyun-ornk.exe
+C:\Users\User\Desktop\oyun-main\oyun-ornk\obj\Debug\oyun-ornk.pdb
